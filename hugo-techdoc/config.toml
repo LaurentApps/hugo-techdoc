@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://laurentapps.github.io/hugo-doc/"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
