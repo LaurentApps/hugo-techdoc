@@ -1,8 +1,13 @@
 +++
-title = "About Hugo"
+title = "A propos"
 date = "2014-04-09"
 menu = "main"
+weight = "5"
 +++
+
+
+
+## A propos
 
 Hugo is a static site engine written in Go.
 

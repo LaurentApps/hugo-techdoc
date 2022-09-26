@@ -4,3 +4,9 @@
 [submodule "hugo-techdoc/themes/hugo-theme-techdoc"]
 	path = hugo-techdoc/themes/hugo-theme-techdoc
 	url = https://github.com/thingsym/hugo-theme-techdoc.git
+[submodule "hugo-opale-dev/themes/hugo-theme-techdoc"]
+	path = hugo-opale-dev/themes/hugo-theme-techdoc
+	url = https://github.com/thingsym/hugo-theme-techdoc.git
+[submodule "hugo-opera-dev/themes/hugo-theme-techdoc"]
+	path = hugo-opera-dev/themes/hugo-theme-techdoc
+	url = https://github.com/thingsym/hugo-theme-techdoc.git

@@ -1,11 +1,11 @@
 ---
 date: 2014-03-10
-linktitle: Migrating from Jekyll
+linktitle: Un premier tuto
 menu:
   main:
-    parent: Tutorials
+    parent: Tutoriels
 prev: /tutorials/mathjax
-title: Migrate to Hugo from Jekyll
+title: Un premier tuto
 weight: 10
 ---
 
